@@ -49,6 +49,9 @@ The script generates three files in a new directory named after your project:
 2. `combined_interfaces_data.csv` - Contains all interfaces with their hash and LoC
 3. `cyver_portal_data.csv` - Formatted data for Cyver portal import
 
+Example output:
+<img width="1714" alt="image" src="https://github.com/user-attachments/assets/b3e32061-5a3b-4aa6-a8c4-e3f61b233905" />
+
 ### Important Notes
 
 - The script automatically identifies interfaces by looking for files in folders named "interface" or "interfaces"
