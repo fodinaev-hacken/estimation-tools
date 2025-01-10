@@ -29,6 +29,9 @@ Example:
 ```bash
 sh ~/power-ass.sh /Users/macbookpro/Documents/hacken/SilexoDeFi___renatus-protocol-contracts/scope
 ```
+Example Output:
+<img width="1239" alt="image" src="https://github.com/user-attachments/assets/11ee3bbe-779a-4ccb-b671-36dd86610ce9" />
+
 
 ### Notes
 - For ease of use the script should be located in your home directory (`~`)
